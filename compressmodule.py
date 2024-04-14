@@ -18,4 +18,4 @@ def decompress(inputfile, outputfile):
   decompressed_file = open(outputfile, 'w')
   decompressed_file.write(decoded_data)
 
-decompress('ot.txt', 'dc1.txt')
+# decompress('ot.txt', 'dc1.txt')
